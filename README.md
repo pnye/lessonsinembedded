@@ -1,2 +1,2 @@
 # lessonsinembedded
-Lessons learned learning embedded development
+Lessons from learning embedded development
