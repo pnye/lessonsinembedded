@@ -1,1 +1,1 @@
-This is the Kentek demos in the Keil uVision IDE directory. 
+These are the Kentek demos built in the Keil uVision IDE. 
